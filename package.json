@@ -1,0 +1,24 @@
+{
+  "name": "listcountry",
+  "version": "1.0.0",
+  "description": "ListCountry",
+  "main": "index.js",
+  "scripts": {
+  "list": "node src/listCountryCodes.js",
+  "test":"npm run list"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-e-j-k-u-m-a-r/ListCountry.git"
+  },
+  "keywords": [],
+  "author": "Tejkumar Kempaiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-e-j-k-u-m-a-r/ListCountry/issues"
+  },
+  "homepage": "https://github.com/T-e-j-k-u-m-a-r/ListCountry#readme",
+  "dependencies": {
+    "countries-list": "^2.0.0"
+  }
+}
