@@ -2,7 +2,7 @@
 node_modules
 
 # read-me docs
-README.md
+*.md
 
 #txt files
-.txt
+*.txt
